@@ -1,0 +1,145 @@
+body {
+    font-family: 'Roboto', sans-serif; !important
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 500;
+    font-family: 'roboto';
+}
+
+h1{
+    !important
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 2.5;
+
+    color: #FFFFFF;
+}
+
+h3{
+    !important
+    font-weight: 322;
+    line-height: 1.5;
+
+    color: #212121;
+}
+
+.title-logo {
+    !important
+    font-size: 26px;
+    line-height: 1.29;
+    font-weight: 700;
+    color: #2196F3;
+}
+
+
+.link {
+    color: #212121;
+}
+
+.link:hover{
+    color: #2196F3;
+}
+
+.link:focus{
+    color: orange;
+}
+
+#banner{
+    !important
+    width: 1600px;
+    height: 25;
+    left: -4px;
+    top: 80px;
+    background: #2F303A;
+}
+
+.button {
+    !important
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 1.25;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+#button-main{
+    !important
+    cursor: pointer;
+    width: 261px;
+    height: 2.08;
+    left: 666px;
+    top: 430px;
+    background: #2196F3;
+}
+
+h4 {
+    color: #2196F3;
+}
+
+p {
+    !important
+    width: 270px;
+    height: 75px;
+    left: 215px;
+    top: 801px;
+
+    font-style: normal; !important
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+    color: #757575;
+}
+
+article {
+    !important
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: 700;
+    color: #212121;
+}
+
+.title-text {
+    !important
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: 700;
+    color: #757575;
+}
+.title-sub {
+    !important
+    font-size: 36px;
+    line-height: 1.75;
+    font-weight: 700;
+    color: #212121;
+}
+
+.title-img {
+    width: 373.16px;
+    height: 13.48;
+    left: 618.42px;
+    top: 1092.3px;
+}
+
+.title-img1 {
+    !important
+    width: 270px;
+    height: 10.83;
+    left: 208px;
+    top: 1696px;
+}
+
+.title-img2 {
+    !important
+    width: 370px;
+    height: 12.25;
+}
+
+#tex{
+    !important
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+
