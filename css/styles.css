@@ -87,6 +87,15 @@ ul{
     display: flex;
 }
 
+.equi{
+    padding: 37px;
+}
+
+.equi1{
+    padding: 23px;
+    padding-right: 215px;
+}
+
 .title-logo {
     font-size: 26px;
     line-height: 1.29;
@@ -127,6 +136,7 @@ ul{
   
 }
 
+
 .title-text {
     font-size: 14px;
     line-height: 1.5;
@@ -158,18 +168,22 @@ ul{
     display: flex;
     padding-left: 215px;
 }
+.title-img img{
+    padding: 37px;
+}
 
 .title-img1 {
     width: 270px;
     height: 10.83;
     left: 208px;
     top: 1696px;
-    flex-direction: ;
     display: flex;
-    
     padding-left: 208px;
 }
 
+.content{
+    flex-direction: column;
+}
 .title-img2 {
     width: 370px;
     height: 12.25;
