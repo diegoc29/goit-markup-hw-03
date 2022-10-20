@@ -9,6 +9,8 @@ article {
     font-size: 14px;
     line-height: 1.5;
     font-weight: 700;
+    align-items: center;
+    padding-top: 95px;
     color: var(--text-color);
 }
 
@@ -24,6 +26,7 @@ body {
 
 header{
     display: flex;
+    align-items: center;
 }
 
 h1{
@@ -43,16 +46,23 @@ h3{
 
 h4 {
     color: var(--brand-color);
-}
+    margin-left: 50px;
+    padding-top: 50px;
+   
+}   
+
 
 .menu-list{
     display: flex;
-    padding-left: 215px;
+    align-items: center;
+    
 }
 
 .menu-list li{
-    margin-right: 50px;
+    margin-right: 80px;
+
 }
+
 
 .menu-text{
     display: flex;
@@ -62,7 +72,6 @@ h4 {
 .menu-text article{
     margin-right: 30px;
     }
-
 
 p {
     width: 270px;
@@ -92,18 +101,13 @@ ul{
     padding: 37px;
 }
 
-.equi1{
-    padding: 23px;
-    padding-right: 215px;
-}
 
 .title-logo {
     font-size: 26px;
     line-height: 1.29;
     font-weight: 700;
-    margin-left: 215px; 
+    padding-left: 215px;
     color: var(--brand-color)
-    
     
 }
 
@@ -129,9 +133,6 @@ ul{
 }
 
 
-.menu center{
-    justify-content: center;
-}
 .button {
     font-size: 16px;
     line-height: 1.25;
@@ -152,6 +153,8 @@ ul{
     line-height: 1.75;
     font-weight: 700;
     padding-left: 619.43px;
+    padding-top: 50px;
+    padding-bottom: 50px;
     color: var(--text-color);
 }
 
@@ -160,6 +163,7 @@ ul{
     line-height: 1.75;
     font-weight: 700;
     padding-left: 669px;
+    padding-top: 50px;
     color: var(--text-color);
 }
 
@@ -177,10 +181,10 @@ ul{
 }
 
 .title-img1 {
-    width: 270px;
-    height: 10.83;
-    left: 208px;
-    top: 1696px;
+    width: 1600px;
+    height: 648px;
+    left: 0px;
+    top: 1510px;
     display: flex;
     padding-left: 208px;
 }
@@ -204,27 +208,31 @@ ul{
     height: 600px;
     left: -4px;
     top: 80px;
-    padding: 200px;
-    padding-left: 452px;
-    padding-right: 452px;
+    padding-left: 400px;
+    padding-right: 530px;
     padding-top: 100px;
-    padding-bottom: 280px;
+    text-align: center;
     background: #2F303A; 
 }
+
 
 #banner1{
     cursor: pointer;
     width: 1600px;
-    height: 25;
+    height: 252px;
     left: -4px;
     top: 80px;
+    padding-left: 165px;
     background: #2F303A;
 }
 
 #button{
     display: flex;
     margin-left: 512px;
-    justify-content: center;
+    border-radius: 4px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    
 }
 
 #button li{
