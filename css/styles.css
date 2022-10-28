@@ -39,8 +39,11 @@ h1{
     font-weight: 900;
     font-size: 44px;
     line-height: 2.5;
+    margin-left: 210px;
     margin-right: 220px; 
-    padding-left: 150px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 80px;
     text-align: center;
     color: var(--title-color)
 }
@@ -64,17 +67,13 @@ h4 {
 .menu-list{
     display: flex;
     align-items: center;  
-    margin-left: 215px;
+    margin-left: 80px;
     
 }
 
 .menu-list li{
     margin-right: 50px;
 
-}
-
-.menu-list1{
-    margin-right: 344px;
 }
 
 
@@ -106,7 +105,6 @@ ul{
 }
 
 .equi{
-    padding: 37px;
     justify-content: space-between;
 }
 
@@ -148,7 +146,10 @@ ul{
     color: var(--title-color);
   
 }
-
+.section{
+    padding-bottom: 94px; 
+    padding-top: 94px; 
+}
 
 .title-text {
     font-size: 14px;
@@ -160,9 +161,7 @@ ul{
     font-size: 36px;
     line-height: 1.75;
     font-weight: 700;
-    padding-left: 619.43px;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    margin-left: 350px;
     color: var(--text-color);
 }
 
@@ -170,8 +169,7 @@ ul{
     font-size: 36px;
     line-height: 1.75;
     font-weight: 700;
-    padding-left: 669px;
-    padding-top: 50px;
+    margin-left: 400px;
     color: var(--text-color);
 }
 
@@ -181,6 +179,7 @@ ul{
     height: 13.48;
     left: 618.42px;
     top: 1092.3px;
+    margin-left: 50px;
     display: flex;
     justify-content: space-between;
 }
@@ -189,8 +188,7 @@ ul{
 }
 
 .title-img1 {
-    width: 1600px;
-    height: 648px;
+    width: 1200px;
     left: 0px;
     top: 1510px;
     display: flex;
@@ -201,12 +199,12 @@ ul{
     width: 370px;
     height: 12.25;
     display: flex;
-    padding-left: 215px;
+    
 }
 
 .web {
-    padding: 30px;
-    
+    justify-content: space-between;
+    padding-left: 30px;
 }
 
 
@@ -222,17 +220,17 @@ ul{
 
 #banner1{
     cursor: pointer;
-    width: 1600px;
+    width: 1200px;
     height: 252px;
     left: -4px;
     top: 80px;
-    
+    margin-top: 47px;
     background: #2F303A;
 }
 
 #button{
     display: flex;
-    margin-left: 512px;
+    margin-left: 260px;
     border-radius: 4px;
     padding-top: 100px;
     padding-bottom: 50px;
@@ -250,7 +248,7 @@ ul{
     height: 2.08;
     left: 666px;
     top: 430px;
-    margin-left: 450px;
+    margin-left: 460px;
     text-align: center;
     
     background: #2196F3;
