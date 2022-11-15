@@ -8,7 +8,7 @@
 article {
     font-size: 14px;
     line-height: 1.5;
-    font-weight: 700px;  
+    font-weight: 700;  
     color: var(--text-color);
 }
 
@@ -48,7 +48,7 @@ h1{
 
 
 h3{
-    font-weight: 700px;
+    font-weight: 700;
     font-size: 14px;
     line-height: 16px;
     color: var(--text-color)
@@ -132,7 +132,7 @@ ul{
 .title-logo1{
     font-size: 26px;
     line-height: 30.52px;
-    font-weight: 700px;
+    font-weight: 700;
     padding-top: 50px;
     color: var(--brand-color)
 }
@@ -159,11 +159,13 @@ ul{
 }
 
 .button:hover{
-    background-color: #2196F3;
+    color: #ffffff;
+    background: #2196F3;
 }
 
 .button:focus{
     color: #ffffff;
+    background: #2196F3;
 }
 
 .button-one {
@@ -193,13 +195,13 @@ ul{
 .title-text {
     font-size: 14px;
     line-height: 24px;
-    font-weight: 400px;
+    font-weight: 400;
     color: #757575;
 }
 .title-sub {
     font-size: 36px;
     line-height: 1.75;
-    font-weight: 700px;
+    font-weight: 700;
     text-align: center;
     color: var(--text-color);
 }
@@ -207,7 +209,7 @@ ul{
 .title-sub1 {
     font-size: 36px;
     line-height: 1.75;
-    font-weight: 700px;
+    font-weight: 700;
     text-align: center;
     color: var(--text-color);
 }
@@ -236,7 +238,7 @@ ul{
 
 .title-img2 {
     width: 370px;
-    height: 12.25;
+    height: 404px;
     display: flex;
     
 }
@@ -270,6 +272,7 @@ ul{
     display: flex;  
     border-radius: 4px;
     justify-content: center;
+
     
 }
 
